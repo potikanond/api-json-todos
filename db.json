@@ -1,0 +1,27 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Take out the trash",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Dinner with family",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Do grocery shopping",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Finish React homework",
+      "completed": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
